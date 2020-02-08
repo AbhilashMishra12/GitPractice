@@ -1,2 +1,4 @@
 This is the the file.
 This is for commit2.
+This is to check the difference
+This is changed after being staged
